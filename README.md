@@ -1,0 +1,2 @@
+# premium-salt-glz-001-salt-glaze-kiln-stoke-and-vapo
+Tired of opening your kiln to find salt glaze pooling on one side while the other side remains bare? The Salt Glaze Kiln Stoke and Vapor Distribution Map transforms guesswork into predictable, repeatable results.  This Notion template helps you log every stoke and map vapor distribution across your kiln shelves, so you can replicate successful firi
